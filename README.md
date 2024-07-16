@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielR19-G2, my name is Gabriel Piñuelas.
 - 👀 I’m interested in Web Development, Python and Mobile Development. 
-- 🌱 Currently i'm learning about Web development and python (for fun)
+- 🌱 Currently i'm developing mobile apps using Flutter and Flutter Bloc.
 - 💞️ I’m looking to collaborate on open source projects and projects to encrease my skills.
 
 <!---
