@@ -1,6 +1,7 @@
 <!-- Profile README for GitHub: GabrielR19-G2 -->
 # ¡Hola! Soy **Gabriel Piñuelas Ramos**  
-**Fullstack & Mobile Developer** | Apasionado por construir apps móviles y web eficientes, escalables y centradas en el usuario  
+<!-- **Fullstack & Mobile Developer** | Apasionado por construir apps móviles y web eficientes, escalables y centradas en el usuario   -->
+**Fullstack-capable Mobile Developer** | Aunque mi foco es el desarrollo móvil con Flutter, tengo sólida experiencia construyendo y conectando aplicaciones con backends en NestJS, Spring Boot
 
 ---
 
